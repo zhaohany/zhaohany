@@ -1,7 +1,4 @@
 # Hi there 👋
-
-I’m a **Software Engineer** with expertise in **Cloud Technologies**, **Distributed Systems**, and **Large Language Models (LLMs)**. My work focuses on building scalable, high-performance systems and bridging advanced research with real-world applications.
-
 ## TL;DR  
 
 - 💻 Software Engineer @ Datadog | ADP | SAS  
@@ -22,10 +19,8 @@ I’m a **Software Engineer** with expertise in **Cloud Technologies**, **Distri
 
 ## 🛠️ Technical Expertise
 
-- **Programming**: Python, Go, Java  
-- **Cloud & Infrastructure**: AWS, GCP, Kubernetes  
-- **Distributed Systems**: Kafka, Redis, ElasticSearch  
-- **AI/ML**: NLP, LLM fine-tuning, TensorFlow, PyTorch  
+- **Programming**: Python, Go, Java, React (TypeScript)  
+- **Cloud & Infrastructure**: AWS, GCP, Kubernetes, Terraform  
 
 ---
 
