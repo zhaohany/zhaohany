@@ -2,7 +2,7 @@
 
 I’m a **Software Engineer** with expertise in **Cloud Technologies**, **Distributed Systems**, and **Large Language Models (LLMs)**. My work focuses on building scalable, high-performance systems and bridging advanced research with real-world applications.
 
-**TL;DR**  
+## TL;DR  
 💻 **Software Engineer** @ Datadog | ADP | SAS  
 🎓 **Academia**: Rutgers & Johns Hopkins (AI, ML, CV, LLM)  
 🌟 **Expertise**: Cloud Tech, LLMs & Distributed Systems  
