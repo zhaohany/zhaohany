@@ -27,4 +27,4 @@
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/zhaohan-yan/)
-- [GitHub](https://github.com/zhaohany)
+- [GitHub](https://github.com/zhaohanyan)
