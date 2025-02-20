@@ -2,8 +2,8 @@
 ## TL;DR  
 
 - 💻 Software Engineer @ Datadog | ADP | SAS  
-- 🎓 Academia: Rutgers & Johns Hopkins (AI, ML, CV, LLM)  
-- 🌟 Expertise: Cloud Tech, LLMs & Distributed Systems  
+- 🎓 Academia: Rutgers & Johns Hopkins  
+- 🌟 Expertise: Cloud Tech, Distributed Systems  
 - 🚀 Entrepreneurship & Open-Source Contributor 
 ---
 
